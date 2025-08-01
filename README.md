@@ -14,8 +14,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
