@@ -1,7 +1,5 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        return sorted( nums ) 
-        """
         n = len( nums )
         A = [] * n
 
@@ -38,4 +36,3 @@ class Solution:
 
         in_sort( 0 , n-1 )
         return nums
-"""
