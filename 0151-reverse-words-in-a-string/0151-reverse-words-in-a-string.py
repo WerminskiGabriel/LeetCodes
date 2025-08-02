@@ -1,26 +1,13 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        from collections import deque
+        a = s.split( sep = None, maxsplit = -1 )
+        res = ""
+        res += a[-1]
 
-        q = deque()
-        current = ""
-        n = len ( s )
+        for i in range( len( a )-2 , -1 , -1 ) :
+            res += " " + a[i]
 
-        for i in range( n ) :
-            if current != "" and s[i] == " ":
-                q.append( current )
-                current = ""
-
-            if s[i] != " " :
-                current += s[i]
-        if current != "" :
-            q.append( current )
-
-        result =  ""
-        if q :
-            result += q.pop()
-        while q :
-            result += " " + q.pop()
+        return res
 
         return result
     
