@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -25,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
