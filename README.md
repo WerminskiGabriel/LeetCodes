@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0001-two-sum) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/WGabrielCode/LeetCodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
