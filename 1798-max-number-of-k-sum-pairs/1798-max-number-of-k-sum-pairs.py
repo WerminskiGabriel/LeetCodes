@@ -1,18 +1,17 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        nums.sort()
-        i = 0
-        j = len( nums ) - 1
-        counter = 0
-
-        while i < j :
-            sum = nums[i] + nums[j]
-            if sum == k :
-                i += 1
-                j -= 1
-                counter += 1
-            elif sum > k :
-                j -= 1
+        dict = {}
+        for num in nums :
+            if num in dict :
+                dict[num] += 1
             else :
-                i += 1
-        return  counter
+                dict[num] = 1
+        res = 0
+        for num , num_cnt in dict.items():
+            looked = k - num
+            if looked < num or looked not in dict : continue
+            if num != looked :
+                res += ( min( num_cnt , dict[looked] ) )
+            else :
+                res += num_cnt // 2
+        return res
