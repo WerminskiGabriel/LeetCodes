@@ -108,4 +108,12 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/WGabrielCode/LeetCodes/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/WGabrielCode/LeetCodes/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
