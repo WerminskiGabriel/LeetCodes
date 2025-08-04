@@ -27,12 +27,14 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/WGabrielCode/LeetCodes/tree/master/0443-string-compression) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/WGabrielCode/LeetCodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/WGabrielCode/LeetCodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
 | ------- |
