@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/WGabrielCode/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
@@ -90,4 +91,8 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
