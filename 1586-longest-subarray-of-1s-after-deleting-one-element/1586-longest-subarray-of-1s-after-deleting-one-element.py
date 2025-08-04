@@ -2,24 +2,20 @@ class Solution:
     def longestSubarray(self, nums: List[int]) -> int:
         n = len( nums )
 
-        left = [0] * n
-        right = [0] * n
+        i = j = 0
+        max_leng = 0
+        last_zero = -1
 
-        A = [0 , n-1]
+        while j < n :
+            if nums[j] == 0 :
+                if last_zero <= i :
+                    max_leng = max( max_leng , j-i-1 )
+                    i = last_zero+1
+                    last_zero = j
+                else :
+                    max_leng = max( max_leng , j-i-1 )
+                    i = last_zero + 1
+                    last_zero = j
+            j += 1
 
-        for i in range( 1 , n ) :
-            if nums[i-1] == 0 :
-                A.append( i-1 )
-                left[i] = 0
-            else :
-                left[i] = left[i-1] + 1
-        for i in range( n-2 , -1, -1 ) :
-            if nums[i+1] == 0 :
-                right[i] = 0
-            else :
-                right[i] = right[i+1] + 1
-        max_cnt = 0
-        for idx in A :
-            max_cnt = max( max_cnt , left[idx] + right[idx] )
-
-        return max_cnt
+        return max( max_leng , j-i-1 )
