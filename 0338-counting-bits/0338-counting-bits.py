@@ -1,7 +1,10 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
-        cnt = lambda x : x == "1"
-        res = []
-        for i in range( n+1 ) :
-            res.append( sum( map( cnt , bin( i )[2:] ) ))
-        return res
+        n += 1
+        dp = [0] *  (n)
+        q = 1
+        for i in range( 1,n ) :
+            if q * 2 == i :
+                q = i
+            dp[i] = dp[i-q] + 1
+        return dp
