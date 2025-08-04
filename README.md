@@ -11,6 +11,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WGabrielCode/LeetCodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/WGabrielCode/LeetCodes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
