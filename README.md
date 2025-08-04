@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WGabrielCode/LeetCodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
