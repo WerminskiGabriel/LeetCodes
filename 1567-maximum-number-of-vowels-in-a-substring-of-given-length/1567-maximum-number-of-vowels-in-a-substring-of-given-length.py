@@ -3,11 +3,12 @@ class Solution:
     
         n = len( s )
         counter = 0
-        vowels = "aeiou"
+        dict = "aeiou"
+        """ 
         dict = {}
         for vowel in vowels :
             dict[ vowel ] = False
-
+        """
         i = 0
         while i < k and i < n :
             if s[i] in dict :
