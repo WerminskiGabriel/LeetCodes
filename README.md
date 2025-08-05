@@ -16,6 +16,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WGabrielCode/LeetCodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/WGabrielCode/LeetCodes/tree/master/0374-guess-number-higher-or-lower) |
+| [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -122,4 +124,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
