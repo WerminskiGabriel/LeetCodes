@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/WGabrielCode/LeetCodes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
@@ -112,10 +113,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
