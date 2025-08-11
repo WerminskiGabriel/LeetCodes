@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/WGabrielCode/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -24,11 +25,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
@@ -97,6 +100,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/WGabrielCode/LeetCodes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
@@ -119,6 +123,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
@@ -181,4 +186,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
