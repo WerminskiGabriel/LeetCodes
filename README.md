@@ -91,6 +91,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
+| [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
+| [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
 ## Memoization
 |  |
 | ------- |
