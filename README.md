@@ -12,6 +12,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
+| [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
@@ -108,6 +109,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/WGabrielCode/LeetCodes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
+| [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/WGabrielCode/LeetCodes/tree/master/0338-counting-bits) |
+| [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
@@ -202,4 +206,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
