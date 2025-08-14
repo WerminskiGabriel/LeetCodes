@@ -1,17 +1,17 @@
 class Solution:
     def integerReplacement(self, n: int) -> int:
-        from collections import deque
-        q = deque()
-        q.append( ( n , -1 ) )
-
-        while q :
-            x , cnt = q.popleft()
-            cnt += 1
+        memo = {}
+        def rec( x ) :
             if x == 1 :
-                return cnt
+                return 0
+            if x in memo :
+                return memo[x]
 
-            if x%2 == 0 :
-                q.append( (x//2 , cnt ) )
+            if x % 2 == 0 :
+                res = rec( x // 2 ) + 1
             else :
-                q.append( (x+1 , cnt ) )
-                q.append( (x-1 , cnt ) )
+                res = min( rec( x + 1 ) + 1, rec( x - 1 ) + 1 )
+
+            memo[x] = res
+            return res
+        return rec( n )
