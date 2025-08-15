@@ -6,6 +6,9 @@ class Solution:
         val = 0
 
         for i in range( n -2 ) :
+            if i > 0 and nums[i-1] == nums[i] :
+                continue
+            
             j = i+1
             k = n-1
             while j < k :
@@ -21,4 +24,5 @@ class Solution:
                     k -= 1
                 else :
                     j += 1
+
         return val
