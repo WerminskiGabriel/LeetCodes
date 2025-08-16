@@ -66,6 +66,7 @@
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
@@ -76,6 +77,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
@@ -99,6 +102,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -198,6 +202,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/WGabrielCode/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
