@@ -1,19 +1,15 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        original = strs.copy()
         n = len( strs )
-
-        for i in range( n ) :
-            strs[i] = ( "".join(sorted( strs[i] ) ) , i )
-        strs.sort()
+        base = {'a': 2, 'b': 3, 'c': 5, 'd': 7, 'e': 11, 'f': 13, 'g': 17, 'h': 19, 'i': 23, 'j': 29, 'k': 31, 'l': 37, 'm': 41, 'n': 43, 'o': 47, 'p': 53, 'q': 59, 'r': 61, 's': 67, 't': 71, 'u': 73, 'v': 79, 'w': 83, 'x': 89, 'y': 97, 'z': 101 }
         result = {}
 
-        for i in range( n ) : #in strs
-            st , idx = strs[i][0] , strs[i][1]
-            orig = original[ idx ]
-            
-            if st in result :
-                result[st].append( orig )
+        for st in strs :  # in strs
+            product = 1
+            for char in st :
+                product *= base[ char ]
+            if product in result :
+                result[ product ].append( st )
             else :
-                result[ st ] = [orig]
+                result[ product ] = [ st ]
         return list( result.values() )
