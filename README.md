@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/WGabrielCode/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/WGabrielCode/LeetCodes/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
@@ -85,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/WGabrielCode/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
