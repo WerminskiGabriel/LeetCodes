@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/WGabrielCode/LeetCodes/tree/master/0238-product-of-array-except-self) |
@@ -30,12 +31,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/WGabrielCode/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
@@ -76,6 +79,7 @@
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
