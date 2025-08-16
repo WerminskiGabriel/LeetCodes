@@ -17,6 +17,7 @@
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/WGabrielCode/LeetCodes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/WGabrielCode/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -98,11 +100,13 @@
 | [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/WGabrielCode/LeetCodes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -258,4 +262,8 @@
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
