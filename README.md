@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/WGabrielCode/LeetCodes/tree/master/0056-merge-intervals) |
@@ -137,6 +138,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/WGabrielCode/LeetCodes/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/WGabrielCode/LeetCodes/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
