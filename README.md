@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/WGabrielCode/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/WGabrielCode/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/WGabrielCode/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
@@ -147,6 +149,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/WGabrielCode/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
