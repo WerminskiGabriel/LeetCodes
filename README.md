@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/WGabrielCode/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/WGabrielCode/LeetCodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/WGabrielCode/LeetCodes/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
@@ -160,6 +161,7 @@
 | [0053-maximum-subarray](https://github.com/WGabrielCode/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/WGabrielCode/LeetCodes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
@@ -263,6 +265,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0063-unique-paths-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
