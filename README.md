@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/WGabrielCode/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/WGabrielCode/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/WGabrielCode/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/WGabrielCode/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/WGabrielCode/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
