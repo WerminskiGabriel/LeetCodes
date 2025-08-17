@@ -7,7 +7,7 @@ class Solution:
 
         for i in range( n ) :
             for j in range( min( i + nums[i] , n-1 ) , i , -1 ) :
-                dp[j] = min( dp[j] , dp[i] + 1 )
                 if j == n-1 :
-                    return dp[j]
+                    return dp[i] + 1 
+                dp[j] = min( dp[j] , dp[i] + 1 )
         return dp[n-1]
