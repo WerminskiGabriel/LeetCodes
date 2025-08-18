@@ -3,15 +3,15 @@ class Solution:
         
         n = len( nums )
         left = 0
-        right = sum( nums[ 1 : ] )
+        total = sum( nums )
 
-        for i in range( 0, n - 1 ) :
+        for i in range( n ) :
             
+            right = total - left - nums[i] 
+
             if left == right :
                 return i
 
-            else :
-                left += nums[ i ]
-                right -= nums[ i + 1 ]
-            
-        return n-1 if left == right else -1
+            left += nums[ i ]
+
+        return -1
