@@ -248,16 +248,19 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
 ## Shortest Path
 |  |
 | ------- |
