@@ -35,6 +35,7 @@
 | [0724-find-pivot-index](https://github.com/WGabrielCode/LeetCodes/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WGabrielCode/LeetCodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -263,6 +264,7 @@
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
@@ -289,6 +291,7 @@
 | [0063-unique-paths-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Trie
 |  |
