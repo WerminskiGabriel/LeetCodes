@@ -1,66 +1,23 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-        from queue import PriorityQueue
+        from collections import defaultdict
 
-        def dijsktra( x ) :
-            a , b = x[0] , x[1]
-            
-            if not (a in dict and b in dict) :
-                return -1.0
-
-            start = dict[a]
-            end = dict[b]
-
-            if start in dict :
-                return d[end] if d[end] != inf else -1
-
-            if start == end :
-                return 1.0
-            n = len( adj_list )
-
-            d = d_empty.copy()
-            d[start] = 1
-
-            pq = PriorityQueue()
-            pq.put( ( 0 , start ) )
-
-            while not pq.empty() :
-                dist , u = pq.get()
-                for v , val in adj_list[u] :
-                    if d[v] > d[u] * val :
-                        d[v] = d[u] * val
-                        pq.put(  (d[v] , v) )
-            d_results[ start ] = d
-            return d[end] if d[end] != inf else -1
-
-
-        n = 2 *len( equations )
-        dict = {}
-        adj_list = [ [] for i in range( n ) ]
-
-        i = 0
-        j = 0
-        for l in equations :
+        matrix = defaultdict( dict )
+        for l , val in zip( equations , values ) :
             a , b = l[0] , l[1]
-            if not a in dict :
-                dict[a] = i
-                i += 1
-            if not b in dict :
-                dict[b] = i
-                i += 1
-            adj_list[ dict[a] ].append( (dict[b] , values[ j ] ) )
-            adj_list[ dict[b] ].append( (dict[a] , 1 / values[ j ]))
-            j += 1
+            matrix[ a ][ b ] =  val
+            matrix[ b ][ a ] =  1 / val
+            matrix[a][a] = matrix[b][b] = 1.0
 
-        for j in range( n - i ) :
-            adj_list.pop()
-            
-        d_results = {}
-        inf = float( "inf" )
+        
+
+        for k in matrix :
+            for i in matrix[k] :
+                for j in matrix[k] :
+                    matrix[i][j] = matrix[i][k] * matrix[k][j] if i != j else 1.0
         res = []
-        d_empty = [ inf for _ in range( i ) ]
-
-        for x in queries :
-            res.append( dijsktra( x ) )
-
+        for l in queries :
+            a , b = l[0] , l[1]
+            
+            res.append( matrix[a].get( b , -1 ) )
         return res
