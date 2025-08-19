@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/WGabrielCode/LeetCodes/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/WGabrielCode/LeetCodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
@@ -263,6 +267,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
@@ -270,6 +275,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
@@ -301,5 +307,6 @@
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
