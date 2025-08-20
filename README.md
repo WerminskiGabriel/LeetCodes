@@ -182,6 +182,7 @@
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/WGabrielCode/LeetCodes/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
