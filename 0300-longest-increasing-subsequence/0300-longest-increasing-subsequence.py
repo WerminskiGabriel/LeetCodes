@@ -1,5 +1,6 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
+                
                 def binfun( i ) :
 
                     left = 0
@@ -28,18 +29,12 @@ class Solution:
                 res = []
                 res.append( nums[0] )
 
-                used = {nums[0] : 0}
-
                 for i in range( 1, n ) :
 
-                    if nums[ i ] in res :
-                    	continue
                     if nums[i] > res[-1] :
                         res.append( nums[i] )
                     else :
                         idx = binfun( i )
                         res[ idx ] = nums[i]
-
-                    used[ nums[i] ] = 0
 
                 return len( res )
