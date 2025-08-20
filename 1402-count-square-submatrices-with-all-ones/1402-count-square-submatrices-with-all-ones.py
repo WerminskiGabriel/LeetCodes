@@ -16,6 +16,8 @@ class Solution:
                 for k in range( 1 , n ) :
                     if i >= k and j >= k and check_square( i , j , k ) :
                         matrix[i][j] += 1
+                    else :
+                        break
 
                 res += matrix[i][j]
 
