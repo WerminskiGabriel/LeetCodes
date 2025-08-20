@@ -38,6 +38,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WGabrielCode/LeetCodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -187,6 +188,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/WGabrielCode/LeetCodes/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
@@ -298,6 +300,7 @@
 | [0064-minimum-path-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Trie
 |  |
