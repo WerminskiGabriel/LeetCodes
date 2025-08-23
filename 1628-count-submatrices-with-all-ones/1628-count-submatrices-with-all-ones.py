@@ -1,8 +1,10 @@
 class Solution:
     def numSubmat(self, mat: List[List[int]]) -> int:
-        r, c = len(mat), len(mat[0])
+        r = len(mat)
+        c = len(mat[0])
         h = [0] * c
         ans = 0
+
         for i in range(r):
             for j in range(c):
                 h[j] = h[j] + 1 if mat[i][j] else 0
