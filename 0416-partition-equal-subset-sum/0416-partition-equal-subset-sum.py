@@ -1,21 +1,20 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        nums.sort()
-        all_sum = sum( nums )
-        memo = {}
-        def rec( idx , used ) :
+        
+        target = sum( nums )
+        if target % 2 != 0 :
+            return False
 
-            key = (idx,used)
-            if key in memo :
-                return memo[key]
+        target //= 2
 
-            if idx == len( nums ) :
+        dp = [ False ] * (target +1)
+        dp[0] = True
+        for num in nums : 
+            if num > target :
                 return False
-            nonlocal all_sum
+            for i in range( target , 0 , -1 ) :
+                if i - num < 0 :
+                    break
+                dp[i] = dp[i] or dp[ i - num ]
 
-            if used == all_sum - used :
-                return True
-
-            memo[key] = rec( idx+1 , used + nums[idx] ) or rec( idx+1 , used )
-            return memo[key]
-        return rec( 0 , 0 )
+        return dp[target]
