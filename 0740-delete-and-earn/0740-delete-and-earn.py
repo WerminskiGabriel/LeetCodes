@@ -1,29 +1,30 @@
 class Solution:
     def deleteAndEarn(self, nums: List[int]) -> int:
+            
+        Counter = {}
+        for num in nums :
+            if num in Counter :
+                Counter[num] += 1
+            else :
+                Counter[num] = 1
+
+        nums = sorted( Counter.keys() )
         n = len( nums )
-        nums = sorted( nums ,  reverse = True )
+        nums = [ ( nums[i] , nums[i] * Counter[nums[i]] ) for i in range( n ) ]
 
-        memo = {}
-        def rec( i ) :
-            if i in memo :
-                return memo[i]
-            nonlocal n
-            if i == n :
-                return 0
+        dp = [0] * n
+        dp[0] = nums[0][1]
 
-            j = i
-            res = 0
+        for i in range( 1 , n ) :
 
-            while j < n and nums[j] == nums[i] :
-                res += nums[i]
-                j += 1
-            res_out = rec( j )
+            if nums[i-1][0] + 1 == nums[i][0] :
+                dp[i] = nums[i][1]
+                
+                if i - 2 >= 0 :
+                    dp[i] += dp[i-2]
+                dp[i] = max( dp[i] , dp[i-1] )
 
-            while j < n and nums[j] == nums[i] - 1 :
-                j += 1
+            else :
+                dp[i] = dp[i-1] + nums[i][1]
 
-            #rint( res + rec( j ) , res_out )
-            memo[i] = max( res + rec( j ) , res_out )
-            return memo[i]
-
-        return rec( 0 )
+        return dp[n-1]
