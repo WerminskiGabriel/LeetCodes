@@ -189,6 +189,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/WGabrielCode/LeetCodes/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/WGabrielCode/LeetCodes/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
@@ -216,6 +217,7 @@
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0343-integer-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
