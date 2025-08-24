@@ -31,6 +31,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
@@ -190,6 +191,7 @@
 | [0338-counting-bits](https://github.com/WGabrielCode/LeetCodes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/WGabrielCode/LeetCodes/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0740-delete-and-earn](https://github.com/WGabrielCode/LeetCodes/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
