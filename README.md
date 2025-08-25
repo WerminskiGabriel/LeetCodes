@@ -35,6 +35,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/WGabrielCode/LeetCodes/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
@@ -260,6 +261,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/WGabrielCode/LeetCodes/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -322,6 +324,7 @@
 | [0063-unique-paths-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/WGabrielCode/LeetCodes/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
