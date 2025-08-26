@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
@@ -111,6 +112,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/WGabrielCode/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
@@ -244,6 +246,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/WGabrielCode/LeetCodes/tree/master/0374-guess-number-higher-or-lower) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
