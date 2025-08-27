@@ -1,12 +1,14 @@
 class Solution:
     def lenOfVDiagonal(self, grid: List[List[int]]) -> int:
         
-        from functools import cache 
-        @cache 
         def rec( i , j , dir_idx , madeTurn , required ) :
             
             if i < 0 or j < 0 or i >= m or j >= n or required != grid[i][j] :
                 return 0
+            
+            key = ( i , j , dir_idx , madeTurn , required )
+            if key in memo :
+                return memo[key]
 
             if required == 0 or required == 1 :
                 new_required = 2
@@ -17,7 +19,8 @@ class Solution:
             if not madeTurn :
                 dir_idx = 0 if dir_idx == 3 else dir_idx + 1
                 res = max( res , 1 + rec( i + dirs[dir_idx][0] , j + dirs[dir_idx][1] , dir_idx , True , new_required) )
-        
+            
+            memo[key] = res
             return res
 
 
