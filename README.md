@@ -56,6 +56,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/WGabrielCode/LeetCodes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/WGabrielCode/LeetCodes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/WGabrielCode/LeetCodes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1488-sort-integers-by-the-power-value](https://github.com/WGabrielCode/LeetCodes/tree/master/1488-sort-integers-by-the-power-value) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3748-sort-matrix-by-diagonals](https://github.com/WGabrielCode/LeetCodes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/WGabrielCode/LeetCodes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/WGabrielCode/LeetCodes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Trie
 |  |
 | ------- |
