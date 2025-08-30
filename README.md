@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/WGabrielCode/LeetCodes/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/WGabrielCode/LeetCodes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
@@ -346,6 +348,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/WGabrielCode/LeetCodes/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
