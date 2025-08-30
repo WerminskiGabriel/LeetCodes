@@ -8,7 +8,6 @@ class Solution:
         rows = [ [False for i in range( n ) ] for j in range( n ) ]
 
         blocks = [ [ [ False for i in range( n ) ] for j in range( 3 ) ] for k in range( 3 ) ]
-        #return blocks
 
         for i in range( n ) :
             for j in range( n ) :
@@ -19,15 +18,10 @@ class Solution:
                     continue
 
                 num = int(num) - 1
+
                 if blocks[i//3][j//3][num] or rows[i][num] or cols[j][num] :
                     return False
 
-                blocks[i//3][j//3][num] = True
-                rows[i][num] = True
-                cols[j][num] = True
-
-        for i in range( 3 ):
-            for j in range( 3 ) :
-                print( i, j, blocks[ i ][ j ] )
+                blocks[i//3][j//3][num] = rows[i][num] = cols[j][num] = True
 
         return True
