@@ -56,6 +56,7 @@
 | [1833-find-the-highest-altitude](https://github.com/WGabrielCode/LeetCodes/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/WGabrielCode/LeetCodes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/WGabrielCode/LeetCodes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/WGabrielCode/LeetCodes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
@@ -147,6 +148,7 @@
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1488-sort-integers-by-the-power-value](https://github.com/WGabrielCode/LeetCodes/tree/master/1488-sort-integers-by-the-power-value) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/WGabrielCode/LeetCodes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -248,6 +250,7 @@
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/WGabrielCode/LeetCodes/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Memoization
 |  |
@@ -396,4 +399,12 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/WGabrielCode/LeetCodes/tree/master/0464-can-i-win) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
