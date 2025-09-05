@@ -240,6 +240,7 @@
 | [0397-integer-replacement](https://github.com/WGabrielCode/LeetCodes/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/WGabrielCode/LeetCodes/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Math
 |  |
 | ------- |
@@ -410,6 +411,11 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
