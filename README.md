@@ -49,6 +49,7 @@
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WGabrielCode/LeetCodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
@@ -254,6 +255,7 @@
 | [0464-can-i-win](https://github.com/WGabrielCode/LeetCodes/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
