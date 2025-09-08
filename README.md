@@ -256,6 +256,7 @@
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/WGabrielCode/LeetCodes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
