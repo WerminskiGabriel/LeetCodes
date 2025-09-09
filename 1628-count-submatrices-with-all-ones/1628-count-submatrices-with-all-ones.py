@@ -18,5 +18,6 @@ class Solution:
                 else:
                     sumv[j] = h[j] * (j + 1)
                 st.append(j)
+                
                 ans += sumv[j]
         return ans
