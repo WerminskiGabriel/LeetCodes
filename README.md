@@ -72,6 +72,7 @@
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/WGabrielCode/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/WGabrielCode/LeetCodes/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/WGabrielCode/LeetCodes/tree/master/0740-delete-and-earn) |
@@ -86,6 +87,7 @@
 | [0058-length-of-last-word](https://github.com/WGabrielCode/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
@@ -376,6 +378,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0720-longest-word-in-dictionary](https://github.com/WGabrielCode/LeetCodes/tree/master/0720-longest-word-in-dictionary) |
 ## Backtracking
 |  |
@@ -424,4 +427,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
