@@ -98,6 +98,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/WGabrielCode/LeetCodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
 | [2887-sort-vowels-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/WGabrielCode/LeetCodes/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Memoization
 |  |
@@ -414,6 +416,7 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/WGabrielCode/LeetCodes/tree/master/0464-can-i-win) |
+| [3462-vowels-game-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
 | ------- |
@@ -429,6 +432,7 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
