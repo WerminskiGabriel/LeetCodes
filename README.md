@@ -86,6 +86,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/WGabrielCode/LeetCodes/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/WGabrielCode/LeetCodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/WGabrielCode/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
@@ -413,6 +414,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0020-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
