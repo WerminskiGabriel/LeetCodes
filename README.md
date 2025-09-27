@@ -46,6 +46,7 @@
 | [0724-find-pivot-index](https://github.com/WGabrielCode/LeetCodes/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/WGabrielCode/LeetCodes/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/WGabrielCode/LeetCodes/tree/master/0830-largest-triangle-area) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
@@ -264,6 +265,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0343-integer-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0343-integer-break) |
 | [0464-can-i-win](https://github.com/WGabrielCode/LeetCodes/tree/master/0464-can-i-win) |
+| [0830-largest-triangle-area](https://github.com/WGabrielCode/LeetCodes/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -428,6 +430,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/WGabrielCode/LeetCodes/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
