@@ -58,6 +58,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/WGabrielCode/LeetCodes/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/WGabrielCode/LeetCodes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -271,6 +272,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/WGabrielCode/LeetCodes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/WGabrielCode/LeetCodes/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/WGabrielCode/LeetCodes/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/WGabrielCode/LeetCodes/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
