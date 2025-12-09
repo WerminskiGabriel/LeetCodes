@@ -460,4 +460,8 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [3797-design-spreadsheet](https://github.com/WGabrielCode/LeetCodes/tree/master/3797-design-spreadsheet) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/WGabrielCode/LeetCodes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
