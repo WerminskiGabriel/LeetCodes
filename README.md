@@ -50,6 +50,7 @@
 | [0830-largest-triangle-area](https://github.com/WGabrielCode/LeetCodes/tree/master/0830-largest-triangle-area) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WGabrielCode/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/WGabrielCode/LeetCodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WGabrielCode/LeetCodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
@@ -215,6 +217,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/WGabrielCode/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/WGabrielCode/LeetCodes/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/WGabrielCode/LeetCodes/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -307,6 +310,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/WGabrielCode/LeetCodes/tree/master/0374-guess-number-higher-or-lower) |
+| [1046-max-consecutive-ones-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
