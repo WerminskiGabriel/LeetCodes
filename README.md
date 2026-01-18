@@ -354,6 +354,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
@@ -364,6 +365,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
@@ -477,6 +479,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -485,5 +488,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
