@@ -8,25 +8,15 @@ class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if root is None :
             return []
-        result = [root.val]
-        lvl_floor = 0
+        result = []
 
         def rec( lvl , head ) :
-            nonlocal lvl_floor
-            lvl += 1
-
+            if len( result ) == lvl :
+                result.append( head.val)
             if head.right is not None :
-                if lvl  > lvl_floor :
-                    lvl_floor = lvl
-                    result.append( head.right.val )
-                rec( lvl , head.right )
-
+                rec( lvl+1 , head.right )
             if head.left is not None :
-                if lvl > lvl_floor :
-                    lvl_floor = lvl
-                    result.append( head.left.val )
-                rec( lvl, head.left )
+                rec( lvl+1, head.left )
 
-            return
         rec( 0 , root )
         return result
