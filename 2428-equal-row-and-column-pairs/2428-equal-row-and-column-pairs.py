@@ -1,8 +1,9 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
-        rows = defaultdict( int )
+        rows = {}
         for row in grid :
-            rows[ tuple( row ) ] += 1
+            trow = tuple( row ) 
+            rows[ trow ] = rows[trow]+1 if trow in rows else 1
         cnt = 0
         length = len( grid )
         for i in range( length ):
