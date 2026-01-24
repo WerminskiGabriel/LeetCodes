@@ -63,6 +63,7 @@
 | [1833-find-the-highest-altitude](https://github.com/WGabrielCode/LeetCodes/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/WGabrielCode/LeetCodes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -88,6 +89,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
 | [3797-design-spreadsheet](https://github.com/WGabrielCode/LeetCodes/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
@@ -334,6 +336,7 @@
 | [0498-diagonal-traverse](https://github.com/WGabrielCode/LeetCodes/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/WGabrielCode/LeetCodes/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
@@ -411,6 +414,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/WGabrielCode/LeetCodes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/WGabrielCode/LeetCodes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/WGabrielCode/LeetCodes/tree/master/3797-design-spreadsheet) |
