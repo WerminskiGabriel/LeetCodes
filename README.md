@@ -45,6 +45,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/WGabrielCode/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0720-longest-word-in-dictionary](https://github.com/WGabrielCode/LeetCodes/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/WGabrielCode/LeetCodes/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/WGabrielCode/LeetCodes/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/WGabrielCode/LeetCodes/tree/master/0830-largest-triangle-area) |
@@ -334,6 +335,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/WGabrielCode/LeetCodes/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/WGabrielCode/LeetCodes/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
@@ -448,6 +450,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2470-removing-stars-from-a-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
