@@ -50,6 +50,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/WGabrielCode/LeetCodes/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/WGabrielCode/LeetCodes/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/WGabrielCode/LeetCodes/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/WGabrielCode/LeetCodes/tree/master/0830-largest-triangle-area) |
@@ -503,6 +504,7 @@
 | [0020-valid-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -510,6 +512,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 ## Game Theory
