@@ -2,9 +2,9 @@ class Solution:
     def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
         
         stack = []
-        idx = len(temperatures)-1
+        leng = len(temperatures)-1
 
-        while idx >= 0 :
+        for idx in range( leng,-1,-1) :
             curr_temp = temperatures[idx]
             sum = 0
             while stack and stack[-1][0] <= curr_temp :
@@ -17,6 +17,5 @@ class Solution:
 
             stack.append( (curr_temp,sum))
             temperatures[idx] = sum          
-            idx -= 1
 
         return temperatures
