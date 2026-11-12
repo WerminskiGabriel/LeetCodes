@@ -503,12 +503,14 @@
 | [0020-valid-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 ## Game Theory
 |  |
@@ -536,6 +538,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2413-smallest-number-in-infinite-set) |
 | [3797-design-spreadsheet](https://github.com/WGabrielCode/LeetCodes/tree/master/3797-design-spreadsheet) |
@@ -583,5 +586,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
