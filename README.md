@@ -301,6 +301,7 @@
 | [0397-integer-replacement](https://github.com/WGabrielCode/LeetCodes/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/WGabrielCode/LeetCodes/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
