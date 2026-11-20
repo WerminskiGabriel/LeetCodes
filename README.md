@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/WGabrielCode/LeetCodes/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0047-permutations-ii) |
@@ -151,6 +152,7 @@
 | [0015-3sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/WGabrielCode/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/WGabrielCode/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
